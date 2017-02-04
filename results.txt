@@ -1,0 +1,5 @@
+Found #include of standard library other than iostream, stdlib, time, and cstddef,
+so zero for the assignment.
+Makefile optimization check: 
+OK
+defrag.out was not created by make, so zero for assignment.
